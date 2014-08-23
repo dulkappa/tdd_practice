@@ -19,4 +19,4 @@ def is_numeric(n):
       (isinstance(n, int) or isinstance(n, long) or isinstance(n, float) or isinstance(n, complex))
   else:
     return not isinstance(n, bool) and \
-      (isinstance(n, long) or isinstance(n, float) or isinstance(n, complex))
+      (isinstance(n, int) or isinstance(n, float) or isinstance(n, complex))
