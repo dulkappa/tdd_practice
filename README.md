@@ -4,4 +4,8 @@ TDD Practice
 
 fizzbuzzのコーディングを通して, テスト駆動開発を実践して学んでみる.
 
-これからは色々な環境でテストしていく予定.
+Pythonにあるテスト用モジュール
+---
+- unittest
+- doctest
+- nose

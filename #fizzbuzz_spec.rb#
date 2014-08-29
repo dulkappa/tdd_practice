@@ -1,0 +1,6 @@
+require 'rubygems'
+require 'rspec'
+require 'fizzbuzz'
+
+XCdescribe FizzBuzz do
+end
